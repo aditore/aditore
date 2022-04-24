@@ -1,6 +1,6 @@
 ### 🐜 *@aditore (*🐜*thony Ditore)* 🐜
 ---
-\🐜\ As a full-stack developer I’m interested in developing code that will help \🐜\ </br>
+<pre>\🐜\ As a full-stack developer I’m interested in developing code that will help \🐜\</br>
 \🐜\ the current online world function in a friendly and competitive environment. \🐜\ </br>
 </br>
 \🐜\ I want to bring big projects to life \🐜\ </br>
@@ -10,7 +10,7 @@
 \🐜\ onto other languages to further expand my knowledge in other development areas! \🐜\ </br>
 </br>
 </br>
-\ \ \🧠 Any project being worked on by anyone is an opportunity to collaborate and let the minds combine! 🧠/ / / </br>
+\ \ \🧠 Any project being worked on by anyone is an opportunity to collaborate and let the minds combine! 🧠 / / / </pre></br>
 ____
 
 </br>
