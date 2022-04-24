@@ -9,14 +9,11 @@
 \🐜\ the University of Washington Coding Bootcamp and will eventually move \🐜\ </br>
 \🐜\ onto other languages to further expand my knowledge in other development areas! \🐜\ </br>
 </br>
-</br>
-\ \ \🧠 Any project being worked on by anyone is an opportunity to collaborate and let the minds combine! 🧠 / / / </pre></br>
+\ \ \🧠 Any project being worked on by anyone is an opportunity to collaborate and let the minds combine! 🧠 / / / </pre>
 ____
 
-</br>
-If you would like to chat with me, collaborate with me</br>
-or get in contact with me for any other reason,</br>
-
+If you would like to chat with me, collaborate with me </br>
+or get in contact with me for any other reason, </br>
 *please* do not hesitate to e-mail me at:
 
 ### <pre>                                 [anthonyditore@gmail.com]</pre>
