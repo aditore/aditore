@@ -2,13 +2,13 @@
 ---
 \🐜\ As a full-stack developer I’m interested in developing code that will help \🐜\ </br>
 \🐜\ the current online world function in a friendly and competitive environment. \🐜\ </br>
-\\---\\ </br>
+</br>
 \🐜\ I want to bring big projects to life \🐜\ </br>
-\\---\\\---\\</br>
+</br>
 \🐜\ I’m currently learning the grounds for full-stack development through \🐜\ </br>
 \🐜\ the University of Washington Coding Bootcamp and will eventually move \🐜\ </br>
 \🐜\ onto other languages to further expand my knowledge in other development areas! \🐜\ </br>
-\\---\\\---\\\---\\ </br>
+</br>
 </br>
 \ \ \🧠 Any project being worked on by anyone is an opportunity to collaborate and let the minds combine! 🧠/ / / </br>
 ____
@@ -19,7 +19,7 @@ or get in contact with me for any other reason,</br>
 
 *please* do not hesitate to e-mail me at:
 
-### -------------------------------------[anthonyditore@gmail.com]----------------------------------------------
+### <pre>                                 [anthonyditore@gmail.com]</pre>
                            __   __ _  ____  _  _   __   __ _  _  _    ____  __  ____  __  ____  ____ 
                           / _\ (  ( \(_  _)/ )( \ /  \ (  ( \( \/ )  (    \(  )(_  _)/  \(  _ \(  __)
                          /    \/    /  )(  ) __ ((  O )/    / )  /    ) D ( )(   )( (  O ))   / ) _) 
