@@ -5,11 +5,16 @@
 </br>
 \🐜\ I want to bring big projects to life \🐜\ </br>
 </br>
-\🐜\ I have completed learning the grounds for full-stack development through \🐜\ </br>
+\🐜\ I have completed learning the grounds for full-stack web development through \🐜\ </br>
 \🐜\ the University of Washington Coding Bootcamp and will eventually move \🐜\ </br>
 \🐜\ onto other languages to further expand my knowledge in other development areas! \🐜\ </br>
+
+\🐜\ Next up on the list: \🐜\</br>
+\🐜\ - GameMaker (GML) \🎮\</br>
+\🐜\ - PHP \🔐\</br>
+\🐜\ - Java \☕\</br>
 </br>
-\ \ \🧠 Any project being worked on by anyone is an opportunity to collaborate and let the minds combine! 🧠 / / / </pre>
+\ \ \🧠 Any project being worked on by anyone is an opportunity to collaborate and let the minds combine! 🧠 / / /</pre>
 ____
 
 If you would like to chat with me, collaborate with me </br>
