@@ -10,7 +10,7 @@
 \🐜\ onto other languages to further expand my knowledge in other development areas! \🐜\ </br>
 
 \🐜\ Next up on the list: \🐜\</br>
-\🐜\ - GameMaker (GML) \🎮\</br>
+\🐜\ - GameMaker (GML) & C# \🎮\</br>
 \🐜\ - PHP \🔐\</br>
 \🐜\ - Java \☕\</br>
 </br>
